@@ -11,3 +11,8 @@
 
 
 ![foto teste](https://user-images.githubusercontent.com/126107250/221651304-c1c18dd5-9a20-4192-bff9-79bccbeab9ef.PNG)
+##
+ <div>
+  <a href="https://github.com/shirleyr12">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyr12&layout=compact&langs_count=7&theme=highcontrast"/>
+    </div>
